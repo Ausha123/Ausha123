@@ -1,5 +1,7 @@
 Hi , I'm Ausha Sandeepa
+
 I'm a Undergraduage student, developer, designer
+
 🙋‍♂️ About Me
 
     🔭 I’m currently studing software engineering and try to achieve my targets.
@@ -16,5 +18,5 @@ I'm a Undergraduage student, developer, designer
 
     ⚡ Fun fact I love to play Hockey.
 
-🚀 Languages and Tools:
+
 
