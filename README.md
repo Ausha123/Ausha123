@@ -18,4 +18,3 @@ I'm a Undergraduage student, developer, designer
 
 🚀 Languages and Tools:
 
-React Badge Spring Badge Javascript Badge Angular Badge Typescript Badge Nodejs Badge Mongo Badge
