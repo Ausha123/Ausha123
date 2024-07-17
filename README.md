@@ -43,5 +43,5 @@
 If you like what i do, maybe consider buying me a coffee 🥺 👇
 <p><a href="https://www.buymeacoffee.com/If you like what i do, maybe consider buying me a coffee 🥺 👇"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="If you like what i do, maybe consider buying me a coffee 🥺 👇" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ausha123&show_icons=true&locale=en&layout=compact" alt="ausha123" /></p>
+
 
