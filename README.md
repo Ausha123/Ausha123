@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ausha Sandeepa</h1>
+<h1 align="center">Hi , I'm Ausha Sandeepa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
@@ -7,6 +7,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently learning **software engineering and try to archive my targets**.
 
@@ -17,6 +19,8 @@
 - 📫 How to reach me **aushasandeepa569@gmail.com**.
 
 - ⚡ Fun fact **I think I am funny**.
+
+ 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
